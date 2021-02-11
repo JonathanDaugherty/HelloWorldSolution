@@ -57,10 +57,17 @@ namespace HelloWorldProject {
             topics[2] = "C#";
             topics[3] = "Javascript";
             topics[4] = "Angular";
-            
+            Console.WriteLine(topics[0]);
+            Console.WriteLine(topics[1]);
+            Console.WriteLine(topics[2]);
+            Console.WriteLine(topics[3]);
+            Console.WriteLine(topics[4]);
+
+
 
             
-         
+          
+           
 
 
             
